@@ -1,6 +1,6 @@
  👋
 
-[![MyIntro](images/intro__page.png)](https://estecore.ru/ 'My portfolio site')
+[![MyIntro](intro__page.png)](https://estecore.ru/ 'My portfolio site')
 # Estecore Presents
 
 
@@ -32,18 +32,18 @@ My online name is __Estecore__
 
 #### Here I will show you only the smallest part of my work, even more can be seen on my website 😉
 
-![Web-design](images/img1-3.png)
-![Web-design](images/img4-3.png)
-![Web-design](images/img6-3.png)
+![Web-design](img1-3.png)
+![Web-design](img4-3.png)
+![Web-design](img6-3.png)
 
 
 ### Languages and Tools
 <a id='lang'></a>
 
-![Alt text](svg/ae.svg)![Alt text](svg/ai.svg)![Alt text](svg/ps.svg)
+![Alt text](ae.svg)![Alt text](ai.svg)![Alt text](ps.svg)
 
-![Alt text](svg/css.svg)![Alt text](svg/html.svg)![Alt text](svg/js.svg)
-![Alt text](svg/python.svg)
+![Alt text](css.svg)![Alt text](html.svg)![Alt text](js.svg)
+![Alt text](python.svg)
 
 
 ### Contacts
