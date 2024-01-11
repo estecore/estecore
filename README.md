@@ -1,5 +1,3 @@
- 👋
-
 [![MyIntro](intro__page.png)](https://estecore.ru/ 'My portfolio site')
 # Estecore Presents
 
@@ -49,8 +47,8 @@ My online name is __Estecore__
 ### Contacts
 <a id='contacts'></a>
 
-[![Alt text](svg/tg.svg)](https://t.me/estecore) [Telegram: @estecore](https://t.me/estecore)
-[![Alt text](svg/web.svg)](https://estecore.ru) [My Portfolio Site estecore.ru](https://estecore.ru)
+[![Alt text](tg.svg)](https://t.me/estecore) [Telegram: @estecore](https://t.me/estecore)
+[![Alt text](web.svg)](https://estecore.ru) [My Portfolio Site estecore.ru](https://estecore.ru)
 
 
 <!-- ### Blog Post
