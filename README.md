@@ -12,7 +12,7 @@
 ### About
 <a id='about'></a>
 
-#### __Hi__ there 👋🏻
+#### Hi there 👋🏻
 
 My online name is __Estecore__
 
