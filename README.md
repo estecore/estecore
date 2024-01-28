@@ -41,7 +41,7 @@ My online name is __Estecore__
 ![Alt text](ae.svg)![Alt text](ai.svg)![Alt text](ps.svg)
 
 ![Alt text](css.svg)![Alt text](html.svg)![Alt text](js.svg)
-![Alt text](python.svg)
+![Alt text](react.svg)
 
 
 ### Contacts
