@@ -38,10 +38,10 @@ My online name is __Estecore__
 ### Languages and Tools
 <a id='lang'></a>
 
-![Alt text](ae.svg)![Alt text](ai.svg)![Alt text](ps.svg)
+![Alt text](ae.svg)![Alt text](ai.svg)![Alt text](ps.svg)![Alt text](figma.svg)
 
 ![Alt text](css.svg)![Alt text](html.svg)![Alt text](js.svg)
-![Alt text](react.svg)
+![Alt text](react.svg)![Alt text](ts.svg)
 
 
 ### Contacts
