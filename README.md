@@ -3,11 +3,13 @@
 
 
 [About](#about)
-[Gallery](#gallery)
+<!-- [Gallery](#gallery) -->
 [Languages and Tools](#lang)
+
 [Contacts](#contacts)
 <!-- [Blog](#blog) -->
 
+---
 
 ### About
 <a id='about'></a>
@@ -24,8 +26,8 @@ My online name is __Estecore__
 
 * Eventually, I plan to become a __Full Stack Developer__ and create my own web-applications 👾
 
-
-### Gallery
+---
+<!-- ### Gallery
 <a id='gallery'></a>
 
 #### Here I will show you only the smallest part of my work, even more can be seen on my website 😉
@@ -33,6 +35,7 @@ My online name is __Estecore__
 ![Web-design](img1-3.png)
 ![Web-design](img4-3.png)
 ![Web-design](img6-3.png)
+-->
 
 
 ### Languages and Tools
@@ -43,6 +46,42 @@ My online name is __Estecore__
 ![Alt text](css.svg)![Alt text](html.svg)![Alt text](js.svg)
 ![Alt text](react.svg)![Alt text](ts.svg)
 
+**Hard Skills:** 
+
+- опыт создания HTML-страницы по макету или с нуля
+- опыт работы с CSS, а также препроцессорами SASS, SCSS
+- опыт разработки на JS, React, TypeScript
+- знание NodeJS
+- опыт адаптивной вёрстки
+- опыт семантической вёрстки
+- опыт кроссбраузерной вёрстки
+- знание БЭМ-методологии
+- опыт Accessibility(доступной) вёрстки
+- опыт работы с подключением API
+- знание Git и умение работать по GitFlow
+- знание Adobe Photoshop
+- знание UI/UX
+- знание дизайна и умение создавать макеты с нуля
+
+
+**Soft Skills:**
+
+- Пунктуальность
+- Ответственность
+- Взаимодействие с командой
+- Поддержание проекта от идеи до деплоя
+
+
+**Tools:**
+
+- VS Code
+- Sublime Text
+- Adobe Photoshop 
+- Adobe Illustrator 
+- весь пакет Adobe
+- Figma
+
+---
 
 ### Contacts
 <a id='contacts'></a>
