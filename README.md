@@ -46,30 +46,30 @@ My online name is __Estecore__
 ![Alt text](css.svg)![Alt text](html.svg)![Alt text](js.svg)
 ![Alt text](react.svg)![Alt text](ts.svg)
 
-**Hard Skills:** 
+**Hard Skills:**
 
-- опыт создания HTML-страницы по макету или с нуля
-- опыт работы с CSS, а также препроцессорами SASS, SCSS
-- опыт разработки на JS, React, TypeScript
-- знание NodeJS
-- опыт адаптивной вёрстки
-- опыт семантической вёрстки
-- опыт кроссбраузерной вёрстки
-- знание БЭМ-методологии
-- опыт Accessibility(доступной) вёрстки
-- опыт работы с подключением API
-- знание Git и умение работать по GitFlow
-- знание Adobe Photoshop
-- знание UI/UX
-- знание дизайна и умение создавать макеты с нуля
+- experience in creating HTML pages from a layout or from scratch
+- experience with CSS, as well as SASS, SCSS preprocessors
+- experience developing in JS, React, TypeScript
+- knowledge of NodeJS
+- experience in adaptive layout
+- experience in semantic layout
+- cross-browser experience
+- knowledge of BEM methodology
+- experience in Accessibility (accessible) layout
+- experience with API connection
+- knowledge of Git and ability to work using GitFlow
+- knowledge of Adobe Photoshop
+- knowledge of UI/UX
+- knowledge of design and ability to create layouts from scratch
 
 
 **Soft Skills:**
 
-- Пунктуальность
-- Ответственность
-- Взаимодействие с командой
-- Поддержание проекта от идеи до деплоя
+- Punctuality
+- Responsibility
+- Interaction with the team
+- Supporting the project from idea to deployment
 
 
 **Tools:**
