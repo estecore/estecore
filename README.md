@@ -14,7 +14,8 @@
 
 <a id='about'></a>
 
-#### Hi there 👋🏻
+
+**Hi there 👋🏻**
 
 My name is **Estecore**
 
@@ -22,7 +23,8 @@ My name is **Estecore**
 
 I don’t stop there, I study new technologies, and also delve into familiar ones to improve the performance of ready-made solutions.
 
-**Stack:**
+
+#### Stack:
 
 - React, NextJS
 - JavaScript, TypeScript
@@ -39,8 +41,11 @@ I don’t stop there, I study new technologies, and also delve into familiar one
 <a id='lang'></a>
 
 ![Alt text](react.svg) ![Alt text](next.svg) ![Alt text](ts.svg)
+
 ![Alt text](css.svg) ![Alt text](html.svg) ![Alt text](js.svg)
+
 ![Alt text](nodejs.svg)
+
 ![Alt text](figma.svg)
 
 ---
