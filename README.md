@@ -1,10 +1,6 @@
-[![MyIntro](intro__page.png)](https://estecore.ru/ "My portfolio site")
-
 # Estecore Presents
 
 [About](#about)
-
-[Languages and Tools](#lang)
 
 [Contacts](#contacts)
 
@@ -14,39 +10,19 @@
 
 <a id='about'></a>
 
-
 **Hi there 👋🏻**
 
 My name is **Estecore**
 
-**Frontend-developer** with **3+** years of commercial development, ranging from basic **HTML**, **CSS**, **JS** to **React**, **NextJS** and **TypeScript** as well as **NodeJS**
+I started programming back in school, and I've been working in commercial development for over three years. I am constantly learning and improving to make projects better.
 
-I don’t stop there, I study new technologies, and also delve into familiar ones to improve the performance of ready-made solutions.
+I value interesting tasks and enjoy working in a team of open-minded people where I can grow as a specialist.
 
+Tech Stack:
 
-#### Stack:
-
-- React, NextJS
-- JavaScript, TypeScript
-- HTML, CSS, SASS
-- NodeJS
-- Material UI
-- Webpack, Vite
-- Figma
-
----
-
-### Languages and Tools
-
-<a id='lang'></a>
-
-![Alt text](react.svg) ![Alt text](next.svg) ![Alt text](ts.svg)
-
-![Alt text](css.svg) ![Alt text](html.svg) ![Alt text](js.svg)
-
-![Alt text](nodejs.svg)
-
-![Alt text](figma.svg)
+- **Frontend**: JavaScript, TypeScript, React, Next.js, Redux Toolkit (Thunk), Zustand, React-Hook-Form, SCSS, Emotion, MUI, Tailwind
+- **Backend**: Node.js, Express, MongoDB, Mongoose
+- **Other**: Git, Figma
 
 ---
 
@@ -55,5 +31,3 @@ I don’t stop there, I study new technologies, and also delve into familiar one
 <a id='contacts'></a>
 
 [![Alt text](tg.svg)](https://t.me/estecore) [Telegram: @estecore](https://t.me/estecore)
-
-[![Alt text](web.svg)](https://estecore.ru) [My Portfolio Site estecore.ru](https://estecore.ru)
