@@ -30,4 +30,4 @@ Tech Stack:
 
 <a id='contacts'></a>
 
-[![Alt text](tg.svg)](https://t.me/estecore) [Telegram: @estecore](https://t.me/estecore)
+[![Alt text](tg.svg)](https://t.me/estecore_dev) [Telegram: @estecore_dev](https://t.me/estecore_dev)
